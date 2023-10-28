@@ -171,7 +171,6 @@ a:hover{
     box-shadow: 3px 3px 10px grey;
     border-radius: 10px;
     padding-bottom: 1%;
-    position: relative;
 }
 #footer{
     overflow-y: hidden;
