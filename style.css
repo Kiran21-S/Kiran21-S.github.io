@@ -151,14 +151,14 @@ a:hover{
 .x{
     margin-top: 400px;
     margin-left: 17.5%;
-    box-shadow: 3px 3px 10px black;
+    box-shadow: 3px 3px 10px grey;
     border-radius: 10px;
     padding-bottom: 1%;
 }
 .y{
     margin-top: -436px;
-    margin-left: 41%;
-    box-shadow: 3px 3px 10px black;
+    margin-left: 41.1%;
+    box-shadow: 3px 3px 10px grey;
     border-radius: 10px;
     height: auto;
     padding-bottom: 1%;
@@ -168,7 +168,7 @@ a:hover{
     position: relative;
     margin-top: -444px;
     margin-left: 65%;
-    box-shadow: 3px 3px 10px black;
+    box-shadow: 3px 3px 10px grey;
     border-radius: 10px;
     padding-bottom: 1%;
     position: relative;
