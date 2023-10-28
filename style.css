@@ -148,11 +148,6 @@ a:hover{
     from { transform: translateX(130%); }
     to { transform: translateX(-250%); }
   }
-.xyz{
-    height: 500px;
-    box-shadow: 3px 3px 10px grey;
-    border-radius: 10px;
-}
 .x{
     margin-top: 400px;
     margin-left: 17.5%;
@@ -170,6 +165,7 @@ a:hover{
     position: relative;
 }
 .z{
+    position: relative;
     margin-top: -444px;
     margin-left: 65%;
     box-shadow: 3px 3px 10px black;
